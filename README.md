@@ -7,3 +7,5 @@ https://elasticsearch.cn/explore
 https://www.bilibili.com/video/BV1r4411r7au?p=4&spm_id_from=pageDriver&vd_source=3834b5a51ba750b023793a2b7a0fb73e
 https://github.com/codedrinker/community
 
+# 授权github的登录
+https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app
